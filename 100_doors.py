@@ -1,6 +1,6 @@
 n= int(input())
 for i in range(1,n+1):
     if i*i <= n:
-        print(i*i1,end=" ")
+        print(i*i ,end=" ")
     else:
         break
